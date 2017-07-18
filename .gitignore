@@ -1,0 +1,7 @@
+out/
+*.iml
+*.txt
+.idea/
+lib/
+target/
+*.properties
